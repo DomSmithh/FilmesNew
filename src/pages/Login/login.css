@@ -11,7 +11,7 @@
 .form{
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 100%;
     max-width: 600px;
 }
 
@@ -19,6 +19,7 @@
     border: 0;
     margin-bottom: 5px;
     height: 40px;
+    width: 100%;
     border-radius: 5px;
     padding: 0 8px;
     background-color: #EAEDED;
@@ -42,19 +43,26 @@
 }
 
 .button-Link{
-    color: #b4b8bb;
+    color: white;
     text-decoration: none;
-    margin: 14px 0;
-    font-size: 14px;
+    margin: 10px 0;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.mais {
+    justify-content: center;
+    display: flex;
+    margin: 10px 0;
 }
 
 .home1 {
     width: 500px;
-
+    background-color: #F4F6F7;
     justify-content: center;
-    justify-items: center;
     align-items: center;
-    
+    display: block;
 
 }
 

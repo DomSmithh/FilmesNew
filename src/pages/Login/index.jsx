@@ -27,7 +27,7 @@ function Login() {
     return (
       <div className='home-container'>
         <div className='home1'>
-        <span>Veja filmes em nosso site.</span>
+        <span className='mais'>Veja filmes em nosso site.</span>
         <form className='form' onSubmit={handleLogin}>
             <input type="email"
                    placeholder='seuemail@server.com'
@@ -40,7 +40,7 @@ function Login() {
                    <button type="submit">Acessar</button>
         </form>
         <Link className="button-Link" to={'/register'}>
-            Não possui uma conta? Cadastre-se
+            Não possui uma conta? Cadastre-se aqui!
         </Link>
         </div>
         <div className='home2'>

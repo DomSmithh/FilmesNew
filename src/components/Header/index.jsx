@@ -6,7 +6,7 @@ function Header(){
         <div>
             <header>
                <Link className="logo" to="/">UCM IF</Link>
-               <Link className='login' to="/login">Login</Link>
+               <Link className='login' to="/login">LOGIN</Link>
                <Link className="favoritos" to="/favoritos">Meus Filmes</Link>
             </header>
         </div>
