@@ -44,7 +44,7 @@ function Login() {
         </Link>
         </div>
         <div className='home2'>
-        <h1>Faça login e veja os ultimos lançamentos</h1>
+        <h1>FAÇA LOGIN E VEJA OS ULTIMOS LANÇAMENTOS</h1>
         </div>
       </div>
     )
