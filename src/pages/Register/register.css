@@ -55,6 +55,10 @@
     justify-content: center;
 }
 
+.button-Link:hover {
+    color: #4F4F4F;
+}
+
 .mais {
     justify-content: center;
     display: flex;

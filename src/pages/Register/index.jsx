@@ -44,7 +44,7 @@ function Register() {
         </Link>
       </div>
       <div className='home2'>
-        <h1>AMANCO</h1>
+        <h1>REGISTRE-SE PARA  VER OS LANÇAMENTOS DE NOVOS FILMES</h1>
       </div>
       </div>
     )
