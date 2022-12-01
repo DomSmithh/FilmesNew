@@ -32,7 +32,7 @@
     margin: 0 15px;
     border: 0;
     border-radius: 4px;
-    background-color:#3366ff ;
+    background-color:#3366ff;
     color: #ffffff;
     font-size: 18px;
 
@@ -62,7 +62,7 @@
 }
 
 .home1 {
-    width: 500px;
+    width: 700px;
     border-radius: 5px;
     background-color: orange;
     justify-content: center;

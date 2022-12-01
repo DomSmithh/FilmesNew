@@ -35,17 +35,17 @@
     outline: none;
     padding: 12px;
     cursor: pointer;
-    transition: all 0.5s;
+    transition: all 1.0s;
 }
 
 .area-buttons button:hover{
-    background-color: brown;
+    background-color: blue;
     color: #ffffff;
 }
 .area-buttons a{
     text-decoration: none;
     color: #000000;
-    transition: all 0.5s;
+    transition: all 1.0s;
 }
 .area-buttons a:hover{
     color: #ffffff;
